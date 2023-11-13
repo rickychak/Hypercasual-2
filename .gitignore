@@ -1,8 +1,0 @@
-/.idea
-/Library
-/Logs
-/UserSettings
-.DS_Store
-/obj
-*.csproj
-*.sln
